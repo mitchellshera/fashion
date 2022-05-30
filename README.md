@@ -22,27 +22,34 @@ I have used all required properties , selectors among many others for all the fi
 Each file is media responsive such that they are easily visible on smaller screens as
 well as larger screens.I have included a footer with my name on it for each file too.
 Also, every file has a navbar such that you can navigate from each html file to and from.
+<img src="/fashion/Screenshot (22).png" alt="Alt text" title="Optional title">
 
 1. INDEX.html
 This file has my homepage where i have the navbar for navigation around the four html pages
 i have used in this project.It has an introduction/welcome message and an image.I have
 styled this file with styles.css
+<img src="/fashion/Screenshot (25).png" alt="Alt text" title="Optional title">
 
 2. PROFESSIONAL.html
 This file is all about the professional outfits and the various categories;Business Professional,
 Business formal,business casual and casual. I have used bootstrap grids for each of the categories
 and each has an image alongside it.Also, i included bootstrap components on the intro alert message.
  I have styled this file with styles.css.
+<img src="/fashion/Screenshot (23).png" alt="Alt text" title="Optional title">
 
 3. CASUAL.html
 This file is about the casual looks and outfits. I divided the categories uisng different weather seasons
 namely; Summer,Winter,Spring and Fall. There are no images in this file.I have styled this file using newstyles.scss
 where i used sass nesting and inheritance together with more basic css styling properties.
+<img src="/fashion/Screenshot (24).png" alt="Alt text" title="Optional title">
+<img src="/fashion/Screenshot (26).png" alt="Alt text" title="Optional title">
 
 4. DREAM-CLOSET.html
 This file is all about images inspired by the professional and Casual looks/outfits.  I would have had
 a million images on there but i chose a few which would serve their purpose accordingly. This file is styled by
 newstyles.scss.
+<img src="/fashion/Screenshot (27).png" alt="Alt text" title="Optional title">
+<img src="/fashion/Screenshot (28).png" alt="Alt text" title="Optional title">
 
 5. 6. 7.----> styles.css newstyles.scss newstyles.class
 This are styling files for all html files. I have used a very good number of all required properties and selectors.
